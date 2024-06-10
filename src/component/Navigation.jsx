@@ -28,7 +28,7 @@ const Navigation = () => {
   <button type="button">SIGN IN</button>
 
  </div>
-
+ 
 
         </div>
       </div>
