@@ -1,26 +1,22 @@
-body{
-    background-color: rgb(224, 122, 122);
+body {
+  background-color: rgb(224, 122, 122);
 }
-.hero-wrapper{
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 75vh;
-    width: 100%;
-}
-
-
-
-.hero-left{
-   height: 76vh;
-   width: 50%;
-   background-color: #e9bfbf;
-
+.hero-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 75vh;
+  width: 100%;
 }
 
-.hero-right{
-    height: 76vh;
-    width: 50%;
-    background-color: aqua;
+.hero-left {
+  height: 76vh;
+  width: 50%;
+  background-color: #e9bfbf;
+}
+
+.hero-right {
+  height: 76vh;
+  width: 50%;
+  background-color: aqua;
 }
