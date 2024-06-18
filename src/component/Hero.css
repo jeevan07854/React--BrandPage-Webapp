@@ -17,6 +17,7 @@ body {
 }
 
 .hero-right {
+  overflow: hidden;
   height: 76vh;
   width: 50%;
   background-color: aqua;

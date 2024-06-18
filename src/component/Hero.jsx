@@ -13,6 +13,9 @@ const Hero = () => {
           </h3>
 
           <h2>My name is Jeevan Poudel and i am from itahari</h2>
+          <h1>
+            <a href="#">Follow</a>
+          </h1>
         </div>
 
         <div className="hero-right"></div>
